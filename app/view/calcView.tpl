@@ -1,4 +1,4 @@
-{extends file = $conf->root_path|cat:"/templates/main.tpl"}
+{extends file = "main.tpl"}
 
 {block name=content} 
     <h2>Kalkulator BMI</h2> <br/>

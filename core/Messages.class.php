@@ -1,4 +1,4 @@
-<?php
+<?php namespace core;
 
 class Messages {
     private $errors = array();  
@@ -41,4 +41,4 @@ class Messages {
         $this->num = 0;
     }
 }
-?>
+
